@@ -33,23 +33,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * [物理层](docs/pysical/物理层.md)
 
 
-## 总结
-
-1. 基础永远值得花费90%的精力去学习加强。厚积而薄发~
-2. 要理解一个软件系统的真正运行机制，一定要阅读其源代码~
-
-## 参考博客
-
-咖啡's blog:<https://blog.csdn.net/body100123/article/details/54315858>
-linuxbird:<https://www.cnblogs.com/linuxbird/archive/2013/06/06/3121738.html>
-sfzyk:<https://www.cnblogs.com/sfzyk/p/7467040.html>
-
-## 参考书籍
-
-![1531965446896.png](image/1531965446896.png)
-
-
-
 ## 网络本质论
 
 计算机网络学习的核心内容就是网络协议的学习。网络协议是为计算机网络中进行数据交换而建立的规则、标准或者说是约定的集合。因为不同用户的数据终端可能采取的字符集是不同的，两者需要进行通信，必须要在一定的标准上进行。一个很形象地比喻就是我们的语言，我们大天朝地广人多，地方性语言也非常丰富，而且方言之间差距巨大。A地区的方言可能B地区的人根本无法接受，所以我们要为全国人名进行沟通建立一个语言标准，这就是我们的普通话的作用。同样，放眼全球，我们与外国友人沟通的标准语言是英语，所以我们才要苦逼的学习英语。
@@ -80,9 +63,20 @@ sfzyk:<https://www.cnblogs.com/sfzyk/p/7467040.html>
 ![1533716640042.png](image/1533716640042.png)
 
 
+## 参考博客
+
+咖啡's blog:<https://blog.csdn.net/body100123/article/details/54315858>
+linuxbird:<https://www.cnblogs.com/linuxbird/archive/2013/06/06/3121738.html>
+sfzyk:<https://www.cnblogs.com/sfzyk/p/7467040.html>
+
+## 参考书籍
+
+![1531965446896.png](image/1531965446896.png)
 
 ## 总结
 
 ```
 1. 概念的东西理解记忆
+2. 基础永远值得花费90%的精力去学习加强。厚积而薄发~
+3. 要理解一个软件系统的真正运行机制，一定要阅读其源代码~
 ```
