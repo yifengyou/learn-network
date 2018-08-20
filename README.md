@@ -2,8 +2,10 @@
 
 ## 本仓库内容
 
-1. 计算机网络基本理论
-2. 网络相关面试题解析
+1. docs/:笔记,计算机网络基本理论+网络相关面试题解析
+2. mindmap/:思维导图
+3. image/:README.md图片
+4. reference/:参考文档
 
 ```
 Something I hope you know before go into the coding~
@@ -52,6 +54,8 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 ## 常见问题
 
 * tcp三次握手四次挥手过程解释
+* 为什么连接的时候是三次握手，关闭的时候却是四次握手？
+* 为什么TIME_WAIT状态需要经过2MSL(最大报文段生存时间)才能返回到CLOSE状态？
 
 
 ## OSI七层网络模型
@@ -71,6 +75,10 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 ![1534213479039.png](image/1534213479039.png)
 
 ![1534213549648.png](image/1534213549648.png)
+
+![1534213772438.png](image/1534213772438.png)
+
+![1534214193020.png](image/1534214193020.png)
 
 
 ## 参考博客
