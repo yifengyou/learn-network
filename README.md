@@ -17,7 +17,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 * GitHub地址:<https://github.com/yifengyou/learn-network>
 
-* GibBook地址:<https://yifengyou.gitbooks.io/learn-network/content/>
+* GitBook地址:<https://yifengyou.gitbooks.io/learn-network/content/>
 
 ## 目录
 
